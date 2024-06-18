@@ -1,7 +1,7 @@
 # 3D WebSite - 3D Text effect with React Three Fiber
 
 This project is a 3D WebSite built using `React` and `Three.js`. It utilizes various technologies and libraries to create a seamless and interactive user experience.
-![Screenshot 2](./public/sticker.gif)
+![Screenshot 2](./public/assets/sticker.gif)
 
 ## Technologies Used
 
