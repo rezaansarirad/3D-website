@@ -29,7 +29,7 @@ This project is a 3D WebSite built using `React` and `Three.js`. It utilizes var
 
 ## Screenshots
 
-![Screenshot 1](./public/1.png)
+![Screenshot 1](./public/assets/1.png)
 
 <!-- Add more screenshots if needed -->
 
